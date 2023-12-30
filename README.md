@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Search the AMI ID in the AWS and add it in the variables.tf
 PUBLIC_KEY_PATH ADD FULL PATH IN VARIABLES.TF-> 
 -> command to generate the pub file ->    ssh-keygen -f oregon-region-key-pair
@@ -18,3 +19,6 @@ PUBLIC_KEY_PATH ADD FULL PATH IN VARIABLES.TF->
 13. Define other necessary files. 
 
 
+=======
+# Terraform
+>>>>>>> d7b270fa31b8350882c267e2aaa37ad5add90a62
